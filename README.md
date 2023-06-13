@@ -1,1 +1,6 @@
 # batmanmeme
+
+tryna make a meme using html n css.. 
+have trouble making the boxes stick together and the sides don't fill up the full page...
+will leave it for now.. but might go back ltr on to fix it...
+for now, enjoy the meme.
